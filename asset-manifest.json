@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TeriJacobs/react-expense-tracker.git/static/css/main.3479cc09.css",
+    "main.js": "/TeriJacobs/react-expense-tracker.git/static/js/main.70f1878e.js",
+    "static/media/Frame2.png": "/TeriJacobs/react-expense-tracker.git/static/media/Frame2.9d176c04f028c81d119e.png",
+    "static/media/bootstrap-icons.woff?": "/TeriJacobs/react-expense-tracker.git/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/TeriJacobs/react-expense-tracker.git/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/TeriJacobs/react-expense-tracker.git/index.html",
+    "main.3479cc09.css.map": "/TeriJacobs/react-expense-tracker.git/static/css/main.3479cc09.css.map",
+    "main.70f1878e.js.map": "/TeriJacobs/react-expense-tracker.git/static/js/main.70f1878e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3479cc09.css",
+    "static/js/main.70f1878e.js"
+  ]
+}
