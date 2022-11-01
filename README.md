@@ -2,16 +2,18 @@
 
 This project allows for Login Add, Delete and Logout functionality of an expense tracker - alongside data persistance through local storage.
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <ins>How to login:</ins>
 <p>
 While implementing the functionality for multiple user logins, you may use the following credentials to login and navigate the site.<br>
 username: admin<br>
 password: 123
 </p>
+
+
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
