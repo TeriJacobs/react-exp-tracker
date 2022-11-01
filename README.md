@@ -2,11 +2,10 @@
 
 This project allows for Login Add, Delete and Logout functionality of an expense tracker - alongside data persistance through local storage.
 
-<ins>How to login:</ins>
+<ins>Login Details to access the site:</ins>
 <p>
-While implementing the functionality for multiple user logins, you may use the following credentials to login and navigate the site.<br>
-username: admin<br>
-password: 123
+username: <strong>admin</strong><br>
+password: <strong>123</strong>
 </p>
 
 
