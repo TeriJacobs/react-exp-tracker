@@ -1,8 +1,8 @@
-## Expense Tracker - phase 4
+# Expense Tracker - phase 4
 
 This project allows for Login Add, Delete and Logout functionality of an expense tracker - alongside data persistance through local storage.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
