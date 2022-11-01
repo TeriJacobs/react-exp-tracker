@@ -2,6 +2,8 @@
 
 This project allows for Login Add, Delete and Logout functionality of an expense tracker - alongside data persistance through local storage.
 
+<strong>Access the final project:</strong> https://terijacobs.github.io/react-expense-tracker/
+
 <ins>Login Details to access the site:</ins>
 <p>
 username: <strong>admin</strong><br>
